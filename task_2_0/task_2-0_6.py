@@ -1,5 +1,0 @@
-f = open("F:/Настя/Универ/output.txt", "w", encoding="utf-8")
-print("ФИО:", "Комракова Анастасия Станиславовна", file=f)
-print("Возраст:", 18, file=f)
-print("Знак зодиака:", "Козерог", file=f)
-f.close()
